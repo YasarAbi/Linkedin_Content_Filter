@@ -85,7 +85,7 @@ Bu proje açık kaynak değildir ancak önerilerinizi paylaşabilirsiniz.
 
 ## 📝 Lisans
 
-Bu proje kişisel kullanım içindir.
+MIT License - Detaylar için [LICENSE](LICENSE) dosyasına bakınız.
 
 ## 💡 Önerilen Filtreler
 

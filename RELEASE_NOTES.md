@@ -68,9 +68,6 @@ LinkedIn Content Filter helps you take control of your LinkedIn feed by filterin
 - ✅ Fixed sticky positioning using LinkedIn's native container
 - ✅ Improved keyword stats synchronization
 
-### 📸 Screenshots
-
-![Feed Cleaner Widget](promo_banner.png)
 
 ### 🤝 Contributing
 
